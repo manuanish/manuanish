@@ -1,4 +1,1 @@
-### *“Der Mensch kann tun was er will; er kann aber nicht wollen was er will.*" <br/>
-"Man can do what he wills but he cannot will what he wills.”
-<br/><br/>
-<span style="color: grey;">**― Arthur Schopenhauer, Essays and Aphorisms**</span>
+<a href="https://manuanish.vercel.app">![](https://raw.githubusercontent.com/manuanish/manuanish.github.io/main/public/crop.gif)</a>
