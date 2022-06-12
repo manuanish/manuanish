@@ -1,1 +1,1 @@
-<a href="https://manuanish.vercel.app">![](https://raw.githubusercontent.com/manuanish/manuanish.github.io/main/public/crop.gif)</a>
+![github stats](https://github-readme-stats.vercel.app/api?username=manuanish&show_icons=true&hide_border=true&theme=github_dark)
